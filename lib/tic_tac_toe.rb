@@ -5,7 +5,7 @@ class TicTacToe
   end
 end
 
-WIN_COMBINATIONS = []
+
 
   
    def display_board
